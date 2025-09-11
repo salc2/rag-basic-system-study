@@ -1,0 +1,6 @@
+dotenv
+langchain
+pypdf
+docarray
+pydantic
+langchain_community

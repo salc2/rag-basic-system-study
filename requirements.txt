@@ -4,3 +4,4 @@ pypdf
 docarray
 pydantic
 langchain_community
+nbconvert
